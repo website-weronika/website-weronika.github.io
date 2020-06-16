@@ -716,7 +716,7 @@ footer {
     transition-duration: 0.7s;
 }
 .icon-angle-double-up:hover {
-     cursor: pointer;
+    cursor: pointer;
     color: #44C8C1;
 }
 .icon-location {
@@ -726,7 +726,6 @@ footer {
     margin: 15px;
     border-radius: 50%;
     text-align: center;
-    
     width: 35px;
     line-height: 35px;
     background-color:#2B3337;
@@ -744,6 +743,14 @@ footer {
 .icon-github-text:hover, .icon-linkedin-2:hover, .icon-codepen:hover {
     cursor: pointer;
 } 
+.note {
+    color:white;
+    text-align: center;
+    font-weight: 200;
+    padding: 20px;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
 
 
 
